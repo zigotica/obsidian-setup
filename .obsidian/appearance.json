@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Minimal",
+  "accentColor": "#5c8af5",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "callouts"
+  ],
+  "theme": "obsidian"
+}

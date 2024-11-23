@@ -1,0 +1,34 @@
+{
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "YYYY/YYYY-MM-DD",
+    "folder": "pkm/calendar/daily",
+    "template": "templates/calendar/day.md",
+    "enabled": false
+  },
+  "weekly": {
+    "format": "YYYY/gggg-[w]ww",
+    "template": "templates/calendar/week.md",
+    "folder": "pkm/calendar/weekly",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "YYYY-MM",
+    "template": "templates/calendar/month.md",
+    "folder": "pkm/calendar/monthly",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "YYYY",
+    "template": "templates/calendar/year.md",
+    "folder": "pkm/calendar/yearly",
+    "enabled": true
+  }
+}

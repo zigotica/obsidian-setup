@@ -1,0 +1,5 @@
+{
+  "folder": "pkm/calendar/daily",
+  "template": "templates/calendar/day",
+  "format": "YYYY/YYYY-MM-DD"
+}

@@ -1,0 +1,11 @@
+.callout[data-callout="note"] {
+  --callout-color: 150, 200, 250;
+}
+
+.callout[data-callout="success"] {
+  --callout-color: 250, 200, 150;
+}
+
+.callout[data-callout="example"] {
+  --callout-color: 150, 250, 175;
+}

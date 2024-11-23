@@ -1,0 +1,72 @@
+{
+  "folder": [
+    {
+      "path": "pkm/people",
+      "commandName": "Person",
+      "template": {
+        "type": "none",
+        "format": "",
+        "position": "append",
+        "separator": "",
+        "increment": true
+      },
+      "fileName": "Untitled",
+      "opening": "newTab",
+      "focused": true,
+      "splitDefault": "horizontal",
+      "alreadyExistOpening": {
+        "opening": "newTab",
+        "splitDefault": "horizontal",
+        "focused": true
+      },
+      "fileMenu": false
+    },
+    {
+      "path": "pkm/knowledge",
+      "commandName": "Knowledge",
+      "template": {
+        "type": "none",
+        "format": "",
+        "position": "append",
+        "separator": "",
+        "increment": true
+      },
+      "fileName": "Untitled",
+      "opening": "newTab",
+      "focused": true,
+      "splitDefault": "horizontal",
+      "alreadyExistOpening": {
+        "opening": "newTab",
+        "splitDefault": "horizontal",
+        "focused": true
+      },
+      "fileMenu": false
+    },
+    {
+      "path": "pkm/reviews",
+      "commandName": "Review",
+      "template": {
+        "type": "none",
+        "format": "",
+        "position": "append",
+        "separator": "",
+        "increment": true
+      },
+      "fileName": "Untitled",
+      "opening": "newTab",
+      "focused": true,
+      "splitDefault": "horizontal",
+      "alreadyExistOpening": {
+        "opening": "newTab",
+        "splitDefault": "horizontal",
+        "focused": true
+      },
+      "fileMenu": false
+    }
+  ],
+  "customVariables": [],
+  "timeOutForInlineTitle": 50,
+  "enableAllFolder": true,
+  "filterAnyFolderCommand": false,
+  "listAllFolderInModals": false
+}
